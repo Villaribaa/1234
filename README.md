@@ -1,4 +1,4 @@
-# 1234
+# main
 max_caunt = 3
 password = 1234
 print (f"У вас є {max_caunt} Cпроби")
